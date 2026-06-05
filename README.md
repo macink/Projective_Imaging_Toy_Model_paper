@@ -1,5 +1,5 @@
 # Projective Imaging Toy Model paper
-Repository for the code used in the paper Projective Imaging of High-Energy Nuclei via Coherent Exclusive Vector Meson Production in Electron-Nucleus Collisions found here: https://inspirehep.net/literature/2893280
+Repository for the code used in the paper Projective Imaging of High-Energy Nuclei via Coherent Exclusive Vector Meson Production in Electron-Nucleus Collisions found here: https://www.sciencedirect.com/science/article/pii/S0370269326004375
 Contains all header files containing the functions to perform the toy model analysis. The macro `FormFactor_Plots_For_Paper.cpp` contain the macros to reproduce the plot in the paper.
 
 To clonde this repo, in terminal: 
